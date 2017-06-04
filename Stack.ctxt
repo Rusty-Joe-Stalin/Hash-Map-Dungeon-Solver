@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Stack()
+comment0.text=\r\n\ Default\ empty\ Stack\ constructor\r\n
+comment1.params=element
+comment1.target=void\ push(java.lang.Object)
+comment1.text=\r\n\ Add\ a\ new\ node\ to\ the\ Stack\ at\ the\ head\r\n\ \r\n\ @param\ -\ E\ element\ added\ to\ the\ stack.\ \r\n
+comment2.params=
+comment2.target=java.lang.Object\ top()
+comment2.text=\r\n\ Return\ the\ first\ data\ item\ on\ the\ Stack.\r\n\ Throw\ an\ exception\ if\ empty.\r\n\ \r\n\ @return\ -\ element\ on\ the\ top\ of\ the\ stack.\ \r\n
+comment3.params=
+comment3.target=java.lang.Object\ pop()
+comment3.text=\r\n\ Remove\ the\ node\ at\ the\ head\ of\ the\r\n\ Stack\ and\ return\ the\ data\ it\ contains\r\n\ \r\n\ @return\ -\ element\ stored\ in\ the\ current\ node.\ \r\n\ @exception\ -\ NoSuchElementException\ thrown\ when\ stack\ is\ empty\ \r\n
+comment4.params=
+comment4.target=int\ getSize()
+comment4.text=\r\n\ returns\ the\ size\ of\ the\ stack.\ \r\n\ \r\n\ @return\ -\ int\ size.\ \r\n
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment5.text=\r\n\ Returns\ a\ boolean\ to\ indicate\ if\ the\ Stack\ is\r\n\ empty\ or\ not.\ True\ it\ is,\ false\ there\ are\ entries.\ \r\n\ \r\n\ @return\ -\ boolean\ if\ stack\ is\ empty.\r\n
+numComments=6

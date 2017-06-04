@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=inputMaze\ inventory\ acceptedItems
+comment0.target=DepthFirst(MazePoint[][],\ LinkedList,\ HashMap)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ DepthFirst\r\n\ \r\n
+comment1.params=inRow\ inColumn
+comment1.target=void\ depthFirstSearch(int,\ int)
+comment1.text=\r\n\ a\ recursive\ method\ to\ search\ for\ the\ a\ single\ value\ in\ a\ two\ dimensional\ array\r\n\ \r\n\ @param\ \ int\ row\ -\ input\ starting\ row\ from\ the\ Main\ class\r\n\ @param\ \ int\ column\ -\ input\ starting\ row\ from\ the\ Main\ class\ \r\n
+comment2.params=
+comment2.target=void\ printItems()
+comment2.text=\r\n\ print\ the\ final\ total\ of\ items\ in\ the\ inventory\r\n
+comment3.params=
+comment3.target=void\ noExit()
+comment3.text=\r\n\ outputs\ the\ maze\ after\ it\ has\ been\ searched\ and\ exit\ is\ not\ found\ \r\n
+comment4.params=
+comment4.target=void\ printPath()
+comment4.text=\r\n\ Reorders\ the\ path\ from\ end\ to\ start\ to\ be\ displayed\ correctly.\ \r\n\ assigns\ correct\ path\ marker\ to\ path\ '.'.\r\n
+comment5.params=
+comment5.target=void\ printMaze()
+comment5.text=\r\n\ prints\ the\ maze\ when\ called.\ \r\n
+numComments=6

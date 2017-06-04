@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=goldPieces
+comment0.target=ItemValue(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ItemValue\r\n
+comment1.params=
+comment1.target=int\ getGoldPieces()
+comment1.text=\r\n\ returns\ the\ number\ of\ gold\ pieces\ of\ an\ item\ \r\n\ @return\ \ int\ goldPeices\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ returns\ number\ of\ gold\ Peices\ in\ a\ string\ format.\ \r\n\ @return\ string\ \r\n
+numComments=3
